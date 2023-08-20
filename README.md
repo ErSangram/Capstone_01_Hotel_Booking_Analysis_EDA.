@@ -8,3 +8,6 @@ Hotel industry is a complicated field for data analysis. Hotel performance depen
     
    In this project I'll try to use an open dataset with information of two real hotels to answer questions of interest regarding the industry, and those hotels in particular.  
 It's real booking data from two hotels: one resort hotel and one city hotel, with arrivals from july 2015 to august 2017, including a total of 33 variables. 
+
+
+Build Interactive Tableau Dashboard on Hotel Booking data.
