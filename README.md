@@ -9,7 +9,8 @@ Hotel industry is a complicated field for data analysis. Hotel performance depen
    In this project I'll try to use an open dataset with information of two real hotels to answer questions of interest regarding the industry, and those hotels in particular.  
 It's real booking data from two hotels: one resort hotel and one city hotel, with arrivals from july 2015 to august 2017, including a total of 33 variables. 
 
-![63133abcbcdcdUntitled-1](https://github.com/ErSangram/Capstone_01_Hotel_Booking_Analysis_EDA./assets/127137603/5212ea5e-3c2b-46c6-8558-c9089b2d66cb)
+![63133abcbcdcdUntitled-1](https://github.com/ErSangram/Capstone_01_Hotel_Booking_Analysis_EDA./assets/127137603/ba83cfb5-d639-4ad4-aef7-06db4b4b0d43)
+
 
 # **Problem Statement**
 
