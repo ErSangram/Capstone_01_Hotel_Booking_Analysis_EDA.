@@ -36,7 +36,9 @@ The next step in this project is to create an interactive Tableau dashboard to v
 *   Explore and analyze the data to discover important factors that govern the bookings of Hotels.     
 *   Generate insights that will be helpful for making business analyses and making appropriate business decisions.
 *   Make the project also helpful for knowing and understanding various hidden business problems regarding various factors like Bookings, lead-time, service, Cancellations, Ratings and most importantly profit.
-  
+
+   ![Screenshot 2023-08-28 143556](https://github.com/ErSangram/Capstone_01_Hotel_Booking_Analysis_EDA./assets/127137603/19659bdf-8d53-48aa-b6fc-cd0f48ec2a64)
+
 To access the Tableau dashboard, please visit the following link: [Tableau Dashboard](https://public.tableau.com/views/almabetter_tableau/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 Feel free to interact with the visualizations and explore the data in a more dynamic way. If you have any feedback or questions about the Tableau dashboard, don't hesitate to reach out.
