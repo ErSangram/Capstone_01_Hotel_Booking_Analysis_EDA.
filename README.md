@@ -1,5 +1,6 @@
-# Hotel Booking Analysis 
+## Hotel Booking Analysis 
 
+### Project Summary:
    A casee study based on Hotel bookings related data is vital for any hospitality business as it gives insight intoth  booking behaviour of customers as well as channels through which bookings are made.      
   This project involves the analysis of the provided data set pertaining to Hotel bookings for City and Resort Hotels.  
 Hotel industry is a complicated field for data analysis. Hotel performance depends on a lot of variables: location, room types distribution, meals, tour operators, time of the year flights capacity, etc.   
