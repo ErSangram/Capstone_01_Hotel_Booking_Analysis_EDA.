@@ -13,7 +13,7 @@ It's real booking data from two hotels: one resort hotel and one city hotel, wit
 ![63133abcbcdcdUntitled-1](https://github.com/ErSangram/Capstone_01_Hotel_Booking_Analysis_EDA./assets/127137603/ba83cfb5-d639-4ad4-aef7-06db4b4b0d43)
 
 
-# **Problem Statement**
+### Problem Statement
 
 The case study based on Hotel bookings-related data is vital for any hospitality business as it gives insight into the booking behaviour of customers as well as channels through which bookings are made.   
 And I invested this data in this project to analyze various aspects of booking behaviour by customers to answer various business challenges faced by hotel through rigorous study of:     
@@ -33,7 +33,7 @@ And I invested this data in this project to analyze various aspects of booking b
 
 The next step in this project is to create an interactive Tableau dashboard to visually represent the insights gained from the analysis. You can explore the dashboard to gain a deeper understanding of the data and findings.
 
-**Business Objective.**   
+## Business Objective 
 *   Explore and analyze the data to discover important factors that govern the bookings of Hotels.     
 *   Generate insights that will be helpful for making business analyses and making appropriate business decisions.
 *   Make the project also helpful for knowing and understanding various hidden business problems regarding various factors like Bookings, lead-time, service, Cancellations, Ratings and most importantly profit.
