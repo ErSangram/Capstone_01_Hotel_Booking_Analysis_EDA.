@@ -24,7 +24,7 @@ And I invested this data in this project to analyze various aspects of booking b
 *   What is the most popular type of meal package?
 *   If the guests have booked these properties again?
 *   Cancellation rates in city hotels and Resort hotels:
-*   Annually variation in ADR means Average Daily Rates in both Hotels in year 2016:
+*   Annually variation in ADR means Average Daily Rates in both Hotels in year 2016.
 
 
 ## Tableau Dashboard
